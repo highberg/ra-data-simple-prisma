@@ -29,7 +29,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/codeledge/ra-prisma-nextjs.git",
+    "url": "https://github.com/highberg/ra-data-simple-prisma.git",
     "directory": "packages/ra-data-simple-prisma"
   },
   "author": "Orlando Groppo <orlando.groppo@gmail.com>",
